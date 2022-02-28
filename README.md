@@ -1,5 +1,9 @@
 # flux
 
+No nonsense Zsh theme.
+
+![](images/shell.png)
+
 ## Installation
 
 ```bash
